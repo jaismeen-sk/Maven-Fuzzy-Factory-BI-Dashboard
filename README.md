@@ -17,11 +17,11 @@ Analyzed multi-channel e-commerce performance for "maven fuzzy factory" across 6
 
 
 📊 Key Metrics & Business Insights
-Gross Revenue: $1.94M across "32,313 total orders"
-Net Profit & Margin: $1.22M Net Profit (62.74% profit margin)
-Funnel Conversion: 6.83% overall conversion rate across "473K website sessions"
-Refund Tracking: $85.34K total refunds (4.32% refund rate), pinpointing opportunities for product quality optimization
-Top Channel: Google Search (`gsearch`) drove the largest share of sessions and conversions, with desktop sessions outperforming mobile in conversion efficiency
+1- Gross Revenue: $1.94M across "32,313 total orders"
+2- Net Profit & Margin: $1.22M Net Profit (62.74% profit margin)
+3- Funnel Conversion: 6.83% overall conversion rate across "473K website sessions"
+4- Refund Tracking: $85.34K total refunds (4.32% refund rate), pinpointing opportunities for product quality optimization
+5- Top Channel: Google Search (`gsearch`) drove the largest share of sessions and conversions, with desktop sessions outperforming mobile in conversion efficiency
 
 
 
